@@ -10,6 +10,8 @@ A complete, modern Windows desktop environment featuring a tiling window manager
 
 This repository contains my complete Windows desktop configuration, transforming Windows into a productive, customizable environment inspired by Linux tiling window managers. Perfect for developers, power users, and anyone who prefers keyboard-centric workflows.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/62c393e0-5b26-41be-9dca-0cf33d4b1dec" />
+
 ## ✨ Features
 
 - **Tiling Window Manager**: GlazeWM for automatic window tiling and keyboard-driven window management
@@ -199,3 +201,4 @@ This configuration is provided as-is for personal use. Feel free to modify and s
 **Made with ⚡ by [lazy-blake](https://github.com/lazy-blake)**
 
 _Transform your Windows experience into a productive powerhouse!_
+
